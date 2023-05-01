@@ -1,0 +1,345 @@
+{
+    "code": 200,
+    "message": "success",
+    "data": {
+        "totalInvestmentAmount": 3805.107,
+        "totalInvestmentCurrentAmount": 3563.72057,
+        "totalInvestmentReturn": {
+            "percent": 6.34,
+            "amount": 241.3864,
+            "returnType": "loss"
+        },
+        "nfts": [
+            {
+                "tierId": 1002,
+                "quantity": 3,
+                "amount": 49.99,
+                "isTradableNft": false,
+                "imageUrl": "https://d2q23p4t0ij9e0.cloudfront.net/medium_Gold_front_e61989353b.png",
+                "name": "9-9 Mashukan | Gold NFT",
+                "nftTier": "Gold",
+                "slug": "/nft/9-9-mashukan",
+                "investedAmount": 149.97,
+                "currentAmount": 149.97,
+                "return": {
+                    "percent": 0,
+                    "amount": 0,
+                    "returnType": ""
+                }
+            },
+            {
+                "tierId": 3001,
+                "quantity": 6,
+                "amount": 1.24,
+                "isTradableNft": false,
+                "imageUrl": "https://d2q23p4t0ij9e0.cloudfront.net/medium_Silver_Front_f72d819af1.png",
+                "name": "Pakki Wali Dosti | Silver NFT",
+                "nftTier": "Silver",
+                "slug": "/nft/pakki-wali-dosti",
+                "investedAmount": 7.44,
+                "currentAmount": 7.44,
+                "return": {
+                    "percent": 0,
+                    "amount": 0,
+                    "returnType": ""
+                }
+            },
+            {
+                "tierId": 3002,
+                "quantity": 14,
+                "amount": 62.49,
+                "isTradableNft": false,
+                "imageUrl": "https://d2q23p4t0ij9e0.cloudfront.net/Gold_Front_6347f1c908.png",
+                "name": "Pakki Wali Dosti | Gold NFT",
+                "nftTier": "Gold",
+                "slug": "/nft/pakki-wali-dosti",
+                "investedAmount": 874.86,
+                "currentAmount": 874.86,
+                "return": {
+                    "percent": 0,
+                    "amount": 0,
+                    "returnType": ""
+                }
+            },
+            {
+                "tierId": 3007,
+                "quantity": 219,
+                "isTradableNft": true,
+                "amount": 148.51,
+                "sellEnableDate": "2022-12-04T12:30:00.082Z",
+                "imageUrl": "https://d2q23p4t0ij9e0.cloudfront.net/medium_Silver_Front_f72d819af1.png",
+                "name": "Pakki Wali Dosti",
+                "nftTier": "Pakki Wali Dosti ",
+                "slug": "/nft/pakki-dosti",
+                "investedAmount": 148.51,
+                "currentAmount": 193.07916,
+                "return": {
+                    "percent": 30.01,
+                    "amount": 44.5692,
+                    "returnType": "profit"
+                }
+            },
+            {
+                "tierId": 18001,
+                "quantity": 1,
+                "isTradableNft": true,
+                "amount": 1.07,
+                "sellEnableDate": "2023-01-05T11:30:00.000Z",
+                "imageUrl": "https://d2q23p4t0ij9e0.cloudfront.net/Shades_Song_2a76f04513.jpeg",
+                "name": "Shades",
+                "nftTier": "",
+                "slug": "/nft/shades",
+                "investedAmount": 1.07,
+                "currentAmount": 1.62125,
+                "return": {
+                    "percent": 51.52,
+                    "amount": 0.5513,
+                    "returnType": "profit"
+                }
+            },
+            {
+                "tierId": 2002,
+                "quantity": 5,
+                "amount": 37.49,
+                "isTradableNft": false,
+                "imageUrl": "https://d2q23p4t0ij9e0.cloudfront.net/Gold_front_bf13a3aa76.png",
+                "name": "Nusrat | Gold NFT",
+                "nftTier": "Gold",
+                "slug": "/nft/nusrat",
+                "investedAmount": 187.45,
+                "currentAmount": 187.45,
+                "return": {
+                    "percent": 0,
+                    "amount": 0,
+                    "returnType": ""
+                }
+            },
+            {
+                "tierId": 16001,
+                "quantity": 9,
+                "isTradableNft": true,
+                "amount": 8.117,
+                "sellEnableDate": "2022-12-16T11:30:00.000Z",
+                "imageUrl": "https://d2q23p4t0ij9e0.cloudfront.net/Deception_63a4f8bd1c.jpg",
+                "name": "Deception",
+                "nftTier": "",
+                "slug": "/nft/deception",
+                "investedAmount": 8.117,
+                "currentAmount": 5.54922,
+                "return": {
+                    "percent": 31.63,
+                    "amount": 2.5678,
+                    "returnType": "loss"
+                }
+            },
+            {
+                "tierId": 1003,
+                "quantity": 2,
+                "amount": 499.99,
+                "isTradableNft": false,
+                "imageUrl": "https://d2q23p4t0ij9e0.cloudfront.net/medium_Platinum_front_910b18bc86.png",
+                "name": "9-9 Mashukan | Platinum NFT",
+                "nftTier": "Platinum",
+                "slug": "/nft/9-9-mashukan",
+                "investedAmount": 999.98,
+                "currentAmount": 999.98,
+                "return": {
+                    "percent": 0,
+                    "amount": 0,
+                    "returnType": ""
+                }
+            },
+            {
+                "tierId": 20001,
+                "quantity": 111,
+                "isTradableNft": true,
+                "amount": 219.643,
+                "sellEnableDate": "2023-01-17T11:30:00.000Z",
+                "imageUrl": "https://d2q23p4t0ij9e0.cloudfront.net/medium_O_Sanam_ca0c740d0e.jpg",
+                "name": "O Sanam",
+                "nftTier": "",
+                "slug": "/nft/o-sanam",
+                "investedAmount": 219.643,
+                "currentAmount": 217.41792,
+                "return": {
+                    "percent": 1.01,
+                    "amount": 2.2251,
+                    "returnType": "loss"
+                }
+            },
+            {
+                "tierId": 3004,
+                "quantity": 5,
+                "amount": 6.24,
+                "isTradableNft": false,
+                "imageUrl": "https://d2q23p4t0ij9e0.cloudfront.net/Sataya_Silver_104daaee9e.png",
+                "name": "Sataya Na Karo | Silver NFT",
+                "nftTier": "Silver",
+                "slug": "/nft/sataya-na-karo",
+                "investedAmount": 31.2,
+                "currentAmount": 31.2,
+                "return": {
+                    "percent": 0,
+                    "amount": 0,
+                    "returnType": ""
+                }
+            },
+            {
+                "tierId": 8001,
+                "quantity": 20,
+                "isTradableNft": true,
+                "amount": 25.12,
+                "imageUrl": "https://d2q23p4t0ij9e0.cloudfront.net/BM_2_4758b3a8b5.png",
+                "name": "Baawra Mann | NFT",
+                "nftTier": "Baawra Mann ",
+                "slug": "/nft/baawra-mann",
+                "investedAmount": 25.12,
+                "currentAmount": 30.45,
+                "return": {
+                    "percent": 21.22,
+                    "amount": 5.33,
+                    "returnType": "profit"
+                }
+            },
+            {
+                "tierId": 5001,
+                "quantity": 20,
+                "isTradableNft": true,
+                "amount": 89.64,
+                "imageUrl": "https://d2q23p4t0ij9e0.cloudfront.net/Poster_1ca29f383c.jpg",
+                "name": "Haaniya | NFT",
+                "nftTier": "Haaniya ",
+                "slug": "/nft/haaniya",
+                "investedAmount": 89.64,
+                "currentAmount": 55.9,
+                "return": {
+                    "percent": 37.64,
+                    "amount": 33.74,
+                    "returnType": "loss"
+                }
+            },
+            {
+                "tierId": 17001,
+                "quantity": 27,
+                "isTradableNft": true,
+                "amount": 34.448,
+                "sellEnableDate": "2022-12-16T11:30:00.000Z",
+                "imageUrl": "https://d2q23p4t0ij9e0.cloudfront.net/Ammadi_Song_4762696c4d.jpg",
+                "name": "Ammadi",
+                "nftTier": "",
+                "slug": "/nft/ammadi",
+                "investedAmount": 34.448,
+                "currentAmount": 34.35021,
+                "return": {
+                    "percent": 0.28,
+                    "amount": 0.0978,
+                    "returnType": "loss"
+                }
+            },
+            {
+                "tierId": 6001,
+                "quantity": 20,
+                "isTradableNft": true,
+                "amount": 383.71,
+                "imageUrl": "https://d2q23p4t0ij9e0.cloudfront.net/Logo_Meri_Jaan_i_Tunes_6001cf009e.jpg?updated_at=2022-10-14T12:35:08.667Z",
+                "name": "Meri Jaan | NFT",
+                "nftTier": "Meri Jaan ",
+                "slug": "/nft/meri-jaan",
+                "investedAmount": 383.71,
+                "currentAmount": 132.38,
+                "return": {
+                    "percent": 65.5,
+                    "amount": 251.33,
+                    "returnType": "loss"
+                }
+            },
+            {
+                "tierId": 1001,
+                "quantity": 49,
+                "amount": 9.99,
+                "isTradableNft": false,
+                "imageUrl": "https://d2q23p4t0ij9e0.cloudfront.net/medium_Silver_front_73147c1881.png",
+                "name": "9-9 Mashukan | Silver NFT",
+                "nftTier": "Silver",
+                "slug": "/nft/9-9-mashukan",
+                "investedAmount": 489.51,
+                "currentAmount": 489.51,
+                "return": {
+                    "percent": 0,
+                    "amount": 0,
+                    "returnType": ""
+                }
+            },
+            {
+                "tierId": 19001,
+                "quantity": 3,
+                "isTradableNft": true,
+                "amount": 3.714,
+                "sellEnableDate": "2023-01-16T11:30:00.000Z",
+                "imageUrl": "https://d2q23p4t0ij9e0.cloudfront.net/Udhaar_Dhaniya_00176cbccc.jpg",
+                "name": "Udhaar Dhaniya",
+                "nftTier": "",
+                "slug": "/nft/udhaar-dhaniya",
+                "investedAmount": 3.714,
+                "currentAmount": 3.83031,
+                "return": {
+                    "percent": 3.13,
+                    "amount": 0.1163,
+                    "returnType": "profit"
+                }
+            },
+            {
+                "tierId": 4001,
+                "quantity": 25,
+                "isTradableNft": true,
+                "amount": 81.46,
+                "imageUrl": "https://d2q23p4t0ij9e0.cloudfront.net/0002_c7260d735d.png",
+                "name": "Kaale Ghode NFT",
+                "nftTier": "Kaale Ghode ",
+                "slug": "/nft/kale-ghode",
+                "investedAmount": 81.46,
+                "currentAmount": 79.48,
+                "return": {
+                    "percent": 2.43,
+                    "amount": 1.98,
+                    "returnType": "loss"
+                }
+            },
+            {
+                "tierId": 12001,
+                "quantity": 1,
+                "isTradableNft": true,
+                "amount": 0.625,
+                "sellEnableDate": "2022-12-08T11:30:00.000Z",
+                "imageUrl": "https://d2q23p4t0ij9e0.cloudfront.net/In_my_zone_song_94fc38f25f.jpeg",
+                "name": "In My Zone",
+                "nftTier": "",
+                "slug": "/nft/in-my-zone",
+                "investedAmount": 0.625,
+                "currentAmount": 0.6125,
+                "return": {
+                    "percent": 2,
+                    "amount": 0.0125,
+                    "returnType": "loss"
+                }
+            },
+            {
+                "tierId": 2001,
+                "quantity": 11,
+                "amount": 6.24,
+                "isTradableNft": false,
+                "imageUrl": "https://d2q23p4t0ij9e0.cloudfront.net/small_Silver_front_837f3f23ae.png",
+                "name": "Nusrat | Silver NFT",
+                "nftTier": "Silver",
+                "slug": "/nft/nusrat",
+                "investedAmount": 68.64,
+                "currentAmount": 68.64,
+                "return": {
+                    "percent": 0,
+                    "amount": 0,
+                    "returnType": ""
+                }
+            }
+        ]
+    }
+}
