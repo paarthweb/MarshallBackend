@@ -1,10 +1,10 @@
 const users = [
     {
-        username: "tejas",
+        email: "tejas@gmail.com",
         password: "password"
     },
     {
-        username: "knoxpo",
+        email: "knoxpo@gmail.com",
         password: "knxpass"
     },
 ];
